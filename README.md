@@ -51,6 +51,7 @@ spinning......
 *************
 Congratulations, You won ₹.30
 Do you want to Play Again(Y/N): Y
+```
 
 
 Beginner-friendly Java project to understand loops, conditionals, arrays, and randomization.
